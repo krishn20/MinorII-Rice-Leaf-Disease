@@ -15,16 +15,16 @@ To overcome these issues, an image based machine learning approach to detect and
 
 # Steps done to do so - 
 
-1. Image Acquisition
-2. Image Pre-Processing
-  i) Background Removal
-  ii) Sharpening/Blur Removal (optional)
-3. Image Segmentation
-  i) Disease Portion Segmentation
-  ii) Leftover Green Region Removal
-4. Feature Extraction
-  i) Color Feature Extraction
-  ii) Texture Feature Extraction
-5. Classification
-  i) SVM
-  ii) Decisoon Tree
+1. Image Acquisition <br/>
+2. Image Pre-Processing <br/>
+  i) Background Removal <br/>
+  ii) Sharpening/Blur Removal (optional) <br/>
+3. Image Segmentation <br/>
+  i) Disease Portion Segmentation <br/>
+  ii) Leftover Green Region Removal <br/>
+4. Feature Extraction <br/>
+  i) Color Feature Extraction <br/>
+  ii) Texture Feature Extraction <br/>
+5. Classification <br/>
+  i) SVM <br/>
+  ii) Decision Tree <br/>
